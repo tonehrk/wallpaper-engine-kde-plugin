@@ -8,6 +8,7 @@ QtObject {
         Never,
         Any,
         Max,
+        FullScreen,
         Focus,
         FocusOrMax
     }
