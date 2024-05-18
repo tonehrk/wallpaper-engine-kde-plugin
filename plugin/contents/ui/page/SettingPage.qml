@@ -69,6 +69,10 @@ Flickable {
                             value: Common.PauseMode.Max
                         },
                         {
+                            text: "Fullscreen",
+                            value: Common.PauseMode.FullScreen
+                        },
+                        {
                             text: "Any Window",
                             value: Common.PauseMode.Any
                         },
