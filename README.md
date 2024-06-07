@@ -4,6 +4,8 @@ A wallpaper plugin integrating [wallpaper engine](https://store.steampowered.com
 ## Todo
 - support kde6
 - move scene to separate process
+- pause on fullscreen
+- support WPE +2.4  wallpapers
 
 ## Note
 - Known issues:
